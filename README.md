@@ -16,11 +16,17 @@ Project Idea
 بهذا الشكل، تصبح مصر في 2038 ليست فقط مضيفة لكأس العالم، بل أيضًا مضيفة لحلم عالمي يجمع بين الرياضة والثقافة والتاريخ
  
 Team Members (pentaRae)
+
 Marim Mahmoud Abdulhady Salem(Team leader)
+.
 Ahmed Hossam Refaat
+.
 Ashraf Ibrahim Ftooh Elsawy
+.
 Hager Gehad Nabil
+.
 Ali Abdulrahman Ali Khedr
+.
 Amr Abdulhady El Morsy Ayyoub
  
 Work Plan
